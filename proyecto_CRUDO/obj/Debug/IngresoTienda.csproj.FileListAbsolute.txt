@@ -1,0 +1,23 @@
+C:\Users\ADSI\source\repos\IngresoTienda\bin\Debug\IngresoTienda.exe.config
+C:\Users\ADSI\source\repos\IngresoTienda\bin\Debug\IngresoTienda.exe
+C:\Users\ADSI\source\repos\IngresoTienda\bin\Debug\IngresoTienda.pdb
+C:\Users\ADSI\source\repos\IngresoTienda\obj\Debug\IngresoTienda.csprojAssemblyReference.cache
+C:\Users\ADSI\source\repos\IngresoTienda\obj\Debug\IngresoTienda.Form1.resources
+C:\Users\ADSI\source\repos\IngresoTienda\obj\Debug\IngresoTienda.Form2.resources
+C:\Users\ADSI\source\repos\IngresoTienda\obj\Debug\IngresoTienda.Properties.Resources.resources
+C:\Users\ADSI\source\repos\IngresoTienda\obj\Debug\IngresoTienda.csproj.GenerateResource.cache
+C:\Users\ADSI\source\repos\IngresoTienda\obj\Debug\IngresoTienda.csproj.CoreCompileInputs.cache
+C:\Users\ADSI\source\repos\IngresoTienda\obj\Debug\IngresoTienda.exe
+C:\Users\ADSI\source\repos\IngresoTienda\obj\Debug\IngresoTienda.pdb
+C:\Users\ASUS\Documents\trabajos sql\IngresoTienda\obj\Debug\IngresoTienda.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\trabajos sql\IngresoTienda\obj\Debug\IngresoTienda.Form1.resources
+C:\Users\ASUS\Documents\trabajos sql\IngresoTienda\obj\Debug\IngresoTienda.Form2.resources
+C:\Users\ASUS\Documents\trabajos sql\IngresoTienda\obj\Debug\IngresoTienda.Form4.resources
+C:\Users\ASUS\Documents\trabajos sql\IngresoTienda\obj\Debug\IngresoTienda.Properties.Resources.resources
+C:\Users\ASUS\Documents\trabajos sql\IngresoTienda\obj\Debug\IngresoTienda.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\trabajos sql\IngresoTienda\obj\Debug\IngresoTienda.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\trabajos sql\IngresoTienda\obj\Debug\IngresoTienda.exe
+C:\Users\ASUS\Documents\trabajos sql\IngresoTienda\obj\Debug\IngresoTienda.pdb
+C:\Users\ASUS\Documents\trabajos sql\IngresoTienda\bin\Debug\IngresoTienda.exe.config
+C:\Users\ASUS\Documents\trabajos sql\IngresoTienda\bin\Debug\IngresoTienda.exe
+C:\Users\ASUS\Documents\trabajos sql\IngresoTienda\bin\Debug\IngresoTienda.pdb

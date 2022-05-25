@@ -1,0 +1,37 @@
+D:\yo\proyecto_ingreso\bin\Debug\IngresoTienda.exe.config
+D:\yo\proyecto_ingreso\bin\Debug\IngresoTienda.exe
+D:\yo\proyecto_ingreso\bin\Debug\IngresoTienda.pdb
+D:\yo\proyecto_ingreso\obj\Debug\proyecto_login.csproj.AssemblyReference.cache
+D:\yo\proyecto_ingreso\obj\Debug\IngresoTienda.Form1.resources
+D:\yo\proyecto_ingreso\obj\Debug\IngresoTienda.Form2.resources
+D:\yo\proyecto_ingreso\obj\Debug\IngresoTienda.Form4.resources
+D:\yo\proyecto_ingreso\obj\Debug\IngresoTienda.Properties.Resources.resources
+D:\yo\proyecto_ingreso\obj\Debug\proyecto_login.csproj.GenerateResource.cache
+D:\yo\proyecto_ingreso\obj\Debug\proyecto_login.csproj.CoreCompileInputs.cache
+D:\yo\proyecto_ingreso\obj\Debug\IngresoTienda.exe
+D:\yo\proyecto_ingreso\obj\Debug\IngresoTienda.pdb
+D:\autentico crudo\proyecto_CRUDO\bin\Debug\IngresoTienda.exe.config
+D:\autentico crudo\proyecto_CRUDO\bin\Debug\IngresoTienda.exe
+D:\autentico crudo\proyecto_CRUDO\bin\Debug\IngresoTienda.pdb
+D:\autentico crudo\proyecto_CRUDO\obj\Debug\proyecto_login.csproj.AssemblyReference.cache
+D:\autentico crudo\proyecto_CRUDO\obj\Debug\IngresoTienda.Form1.resources
+D:\autentico crudo\proyecto_CRUDO\obj\Debug\IngresoTienda.Form2.resources
+D:\autentico crudo\proyecto_CRUDO\obj\Debug\IngresoTienda.Form4.resources
+D:\autentico crudo\proyecto_CRUDO\obj\Debug\IngresoTienda.Properties.Resources.resources
+D:\autentico crudo\proyecto_CRUDO\obj\Debug\proyecto_login.csproj.GenerateResource.cache
+D:\autentico crudo\proyecto_CRUDO\obj\Debug\proyecto_login.csproj.CoreCompileInputs.cache
+D:\autentico crudo\proyecto_CRUDO\obj\Debug\IngresoTienda.exe
+D:\autentico crudo\proyecto_CRUDO\obj\Debug\IngresoTienda.pdb
+E:\autentico crudo\proyecto_CRUDO\bin\Debug\IngresoTienda.exe.config
+E:\autentico crudo\proyecto_CRUDO\bin\Debug\IngresoTienda.exe
+E:\autentico crudo\proyecto_CRUDO\bin\Debug\IngresoTienda.pdb
+E:\autentico crudo\proyecto_CRUDO\obj\Debug\IngresoTienda.Form1.resources
+E:\autentico crudo\proyecto_CRUDO\obj\Debug\IngresoTienda.Form2.resources
+E:\autentico crudo\proyecto_CRUDO\obj\Debug\IngresoTienda.Form4.resources
+E:\autentico crudo\proyecto_CRUDO\obj\Debug\IngresoTienda.Properties.Resources.resources
+E:\autentico crudo\proyecto_CRUDO\obj\Debug\proyecto_login.csproj.GenerateResource.cache
+E:\autentico crudo\proyecto_CRUDO\obj\Debug\proyecto_login.csproj.CoreCompileInputs.cache
+E:\autentico crudo\proyecto_CRUDO\obj\Debug\IngresoTienda.exe
+E:\autentico crudo\proyecto_CRUDO\obj\Debug\IngresoTienda.pdb
+E:\autentico crudo\proyecto_CRUDO\obj\Debug\proyecto_login.csproj.AssemblyReference.cache
+E:\autentico crudo\proyecto_CRUDO\obj\Debug\proyecto_login.csproj.SuggestedBindingRedirects.cache
